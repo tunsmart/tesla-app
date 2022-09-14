@@ -6,9 +6,9 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.5-SNAPSHOT</version> 
+	<version>0.0.5</version> 
 	
-	<name>my-maven-web-application</name>
+	<name>tesla-app</name>
 
 	<description>Maven Web Project for Java Project</description>
 
@@ -115,7 +115,7 @@
 	</repositories>
 	
 	<build>
-		<finalName>my-maven-web-app</finalName>
+		<finalName>tesla-app</finalName>
 		
 		<plugins>
 			<plugin>
