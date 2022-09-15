@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Tesla Releases Nexus Repository</name>
-	      <url>http://13.58.31.198:8081/landmark/repository/tesla-fe-releases/</url>
+	      <url>http://172.31.18.176:8081/landmark/repository/tesla-fe-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.58.31.198:8081/landmark/repository/tesla-fe-snapshots/</url>
+	      <url>http://172.31.18.176:8081/landmark/repository/tesla-fe-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -110,7 +110,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Maven Central Nexus Mirrors</name>
-	      <url>http://13.58.31.198:8081/landmark/repository/tesla-group//</url>
+	      <url>http://172.31.18.176:8081/landmark/repository/tesla-group//</url>
 	    </repository>
 	</repositories>
 	
