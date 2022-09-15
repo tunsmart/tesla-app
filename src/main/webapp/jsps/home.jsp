@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 color='blue' align="center">Welcome to Cloudera Technologies.</h1>
-<h1 align="center">We are the best cloud technologies consultancy in Ottawa</h1>
+<h1 align="center">We are the best cloud technologies consultancy in Ottawa. Wouldn't you rather cloud with us?</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
