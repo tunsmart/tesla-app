@@ -13,21 +13,6 @@
 <h3 align="center">We are the best cloud technologies consultancy in North America. Wouldn't you rather cloud with us? We offer the best services for cloud cost savings </h3>
 <hr>
 <br>
-<!--
-<h1>
-	<h3> Server Side IP Address </h3><br>
-
-<% 
-String ip = "";
-InetAddress inetAddress = InetAddress.getLocalHost();
-ip = inetAddress.getHostAddress();
-out.println("Server Host Name :: "+inetAddress.getHostName()); 
-%>
-<br>
-<%out.println("Server IP Address :: "+ip);%>
-		
-</h1>
--->
 
 <hr>
 <div style="text-align: center;">
